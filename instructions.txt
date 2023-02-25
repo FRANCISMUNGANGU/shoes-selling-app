@@ -1,0 +1,17 @@
+Independent Project.
+
+For this week’s independent project you will be required to create a full CRUD application with its HTML views ,
+saving the data in an embedded sqlite database.
+
+The project is a product listing catalog web app with the following specifications :
+
+The web app sells shoes , the products should be displayed in a row with a flex wrap with the following details :
+name of shoe :  saved as a text in the database, image of shoe : saved as an image url in the database , and the
+price of the shoe.
+The above details should be fetched from the database and also have seed / dummy data representation for at least
+ 2 shoes.
+The page should also have a form to add the shoes , with the fields name of shoe , image url of the shoe and price of
+ the shoe. Also a link to edit a shoe item and delete the item.
+All stylings should be done in bootstrap but the flex or grid container in use can be based off CSS.
+Submit a repository with the work to the email josephbill00@gmail.com , Tuesday 12 Noon is the deadline. ,
+28th February 2023.
