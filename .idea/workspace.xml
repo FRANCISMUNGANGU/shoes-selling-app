@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2301c67f-f4ff-47ea-9347-8d9cd6260f8d" name="Changes" comment="" />
+    <list default="true" id="2301c67f-f4ff-47ea-9347-8d9cd6260f8d" name="Changes" comment="">
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/.idea/modules.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/database.db" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/database.db" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/templates/base.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +23,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,7 +58,7 @@
   </component>
   <component name="RunManager">
     <configuration name="flaskProject" type="Python.FlaskServer">
-      <module name="flaskProject" />
+      <module name="Shoes_selling_app" />
       <option name="target" value="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject/app.py" />
       <option name="targetType" value="PATH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +259,20 @@
       <workItem from="1677318457502" duration="2000" />
       <workItem from="1677318557510" duration="441000" />
       <workItem from="1677319115106" duration="295000" />
-      <workItem from="1677319458114" duration="504000" />
+      <workItem from="1677319458114" duration="869000" />
+      <workItem from="1677321622814" duration="253000" />
+      <workItem from="1677346819313" duration="2000" />
+      <workItem from="1677347109446" duration="18000" />
+      <workItem from="1677348028546" duration="168000" />
+      <workItem from="1677348253880" duration="3000" />
+      <workItem from="1677420491796" duration="3000" />
+      <workItem from="1677421380696" duration="2168000" />
+      <workItem from="1677424469489" duration="34000" />
+      <workItem from="1677424565442" duration="18000" />
+      <workItem from="1677425453065" duration="6000" />
+      <workItem from="1677428185843" duration="39000" />
+      <workItem from="1677428298990" duration="46000" />
+      <workItem from="1677428371891" duration="147000" />
     </task>
     <servers />
   </component>
@@ -260,5 +281,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/flaskProject$flaskProject.coverage" NAME="flaskProject Coverage Results" MODIFIED="1677319845409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject" />
+    <SUITE FILE_PATH="coverage/Shoes_selling_app$flaskProject.coverage" NAME="flaskProject Coverage Results" MODIFIED="1677428478846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/jbr/bin/Users/TOM MWACHOFI/flashproject/flaskProject" />
   </component>
 </project>
